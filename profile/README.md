@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.svg" width="88" height="88" alt="IPLogs logo">
+</p>
+
 <h1 align="center">IPLogs</h1>
 
 <p align="center">
